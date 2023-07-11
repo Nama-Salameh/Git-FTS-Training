@@ -1,2 +1,2 @@
 Chapter 2: Git's Decision
-Git Decided to leave his home in Init to explore the vast world of Version Control, this after much contemplation.
+After much contemplation, Git decided to leave his home in Init to explore the vast world of Version Control ! .
