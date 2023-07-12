@@ -5,3 +5,5 @@ This change to trying Rebase Workflow.
 
 vbnetCopy code
 Git was eager to explore new places.
+
+Trying hooks
