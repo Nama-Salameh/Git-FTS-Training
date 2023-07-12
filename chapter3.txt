@@ -8,3 +8,5 @@ First change to try Reordering.
 Second change to try Reordering.
 Third change to try Reordering.
 Forth change to try Reordering.
+
+The first challenge Git faced was understanding the concepts of Version Control.
